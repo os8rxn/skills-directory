@@ -12,7 +12,7 @@ Use the supplied paper URL, PDF, or text. Ask for it if missing. Read the full p
 Start with the paper title and source link when available. Use four sections:
 
 - **Idea:** Lead with the main takeaway. What problem does it address? What does it contribute?
-- **Method:** Explain how it works in a few steps. Use a diagram or analogy if it helps; preserve important limits.
+- **Method:** Explain how it works in a few steps. Always create a mind branch diagram (https://x.com/MindBranches) or a system diagram to explain visually. Use a simple analogy that a college student can understand to break the concept down; preserve important limits.
 - **Evidence:** Does the evidence support the main claim? Give key results and reported numbers. Check comparisons, test conditions, and uncertainty when relevant; assess proof assumptions for theoretical work. Cite pages, sections, or figures for substantive claims. Separate reported results, author claims, and your interpretation. Identify material limitations or missing checks without inventing faults.
 - **Impact:** Explain the significance and one open question. Give a practical implication if supported; label proposed uses as speculative.
 
