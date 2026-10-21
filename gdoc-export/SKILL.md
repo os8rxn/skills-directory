@@ -58,12 +58,14 @@ Title
 [Optional: PIC | Status | Date]
 
 Executive Summary
-- 3-5 bullets max
-- Key takeaways only
+- 3-5 bullet points 
+- Most important and foundational takeaways only
 
 Section 1: Context/Background
-Section 2: Main Content
-Section 3: Recommendations/Next Steps
+Section 2: Problem
+Section 3: Observations - This section should consist of data, numbers quantification of claims, sources. 
+Section 4: Core hypothesis -i.e what is this document trying to prove/disprove. If it is not trying to prove and disprove anything, put it in the exec summary. 
+Section 5: Recommendations/Next Steps - this should be actionable by the reader
 
 Appendix
 - A. Data Tables
