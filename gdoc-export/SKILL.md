@@ -6,8 +6,7 @@ description: Standard formatting rules for Google Doc exports. Use when creating
 # Google Doc Export Format
 
 ## Reference Documents
-- Style: always match https://docs.google.com/document/d/1KmZidkcZuGHUjqUwydgFFwKEm_-h-z7jbvFfXUkuBwQ
-- 2-page memo guide: read "Two Pages to Rule Them All" before writing — https://docs.google.com/document/d/1c87m837Axzp6pMj2B3eM3scAvNDn-QQNI7PFJEo6Vik/edit?tab=t.0
+- Style: always match the 2-page memo guide: read "Two Pages to Rule Them All" before writing — https://docs.google.com/document/d/1c87m837Axzp6pMj2B3eM3scAvNDn-QQNI7PFJEo6Vik/edit?tab=t.0
 
 ## Typography
 
